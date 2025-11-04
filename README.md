@@ -10,5 +10,5 @@ Contains Testing Files For Github Workshop Event
 ## MergeConflicts
 - Displaying Merge Conflict handling
 
-## Rebasing
+## Rebasing 
 - Showing off the purpose of rebasing
